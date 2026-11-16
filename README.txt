@@ -14,7 +14,7 @@ SETUP ON WINDOWS
 3. Open .streamlit/secrets.toml in Notepad or a code editor.
 4. Replace PASTE_YOUR_GEMINI_API_KEY_HERE with your real Gemini API key.
    Keep the quotation marks, for example:
-   GEMINI_API_KEY = "your-real-key"
+   GEMINI_API_KEY = "YOUR API KEY "
 5. Open Command Prompt in this folder.
 6. Install dependencies:
       python -m pip install -r requirements.txt
